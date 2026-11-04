@@ -1,0 +1,25 @@
+Tide Pool Biodiversity: Life Between the Tides
+
+Tide pools are rocky intertidal habitats that retain water during low tide, creating miniature ecosystems that bridge the marine and terrestrial worlds. These dynamic environments experience dramatic fluctuations in temperature, salinity, oxygen levels, and wave exposure over the course of each tidal cycle. Despite these challenging conditions, tide pools support remarkable biodiversity and serve as accessible windows into marine ecology for researchers and the public alike.
+
+Zonation Patterns
+
+The intertidal zone is typically divided into distinct vertical bands based on the duration of tidal exposure. The splash zone at the top receives only spray from waves and hosts hardy species like lichens, periwinkles, and rough limpets. The high intertidal zone is submerged only during the highest tides and supports barnacles, mussels, and several species of algae that can tolerate extended air exposure.
+
+The mid-intertidal zone experiences regular submersion and exposure with each tidal cycle. This zone often has the highest species diversity, with anemones, sea stars, chitons, and various seaweeds competing for space. The low intertidal zone is exposed only during the lowest tides and contains species more typical of the subtidal environment, including sea urchins, nudibranchs, and delicate red algae.
+
+Key Species Interactions
+
+Competition for space is a primary structuring force in tide pool communities. Mussels and barnacles compete directly for attachment sites on rock surfaces, with mussels typically dominating in the absence of predation. The ochre sea star, Pisaster ochraceus, acts as a keystone predator by preferentially consuming mussels, thereby preventing competitive exclusion and maintaining species diversity.
+
+Herbivory shapes algal community composition in much the same way. Limpets and chitons graze on microalgae and young seaweed germlings, creating bare patches that allow for species turnover and succession. When grazers are experimentally removed, certain fast-growing algae quickly monopolize available space, reducing overall diversity.
+
+Adaptation to Environmental Stress
+
+Organisms living in tide pools have evolved remarkable adaptations to cope with environmental extremes. Many species can tolerate wide ranges of temperature and salinity through physiological mechanisms such as heat shock proteins and osmotic regulation. Behavioral adaptations include seeking shelter in crevices, clustering to reduce desiccation, and timing reproductive activities to coincide with favorable tidal conditions.
+
+The ability of tide pool organisms to withstand environmental variability has made them subjects of interest in climate change research. Scientists study how existing adaptive capacity may buffer populations against future warming and acidification, and whether species near their physiological limits may be particularly vulnerable to additional stress.
+
+Research Applications
+
+Tide pools serve as natural laboratories for studying fundamental ecological processes including competition, predation, succession, and disturbance ecology. Their accessibility, discrete boundaries, and rapid dynamics make them ideal systems for experimental manipulation. Long-term monitoring of tide pool communities provides valuable data on how coastal ecosystems respond to environmental change over decades.
